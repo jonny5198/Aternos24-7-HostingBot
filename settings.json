@@ -8,7 +8,7 @@
   "server": {
     "ip": "OrbitalHell.aternos.me",
     "port": 31989,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
@@ -31,7 +31,6 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
